@@ -3,13 +3,15 @@
 		"id": 1,
 		"manufacturer": "Apple",
 		"type": "Smart Display",
-		"roomsInFlat": ["Sleeping Room" , "Entrance Hall"]
+		"roomsInFlat": ["Bedroom" , "Entrance Hall", "Livingroom"],
+    "placement": "Bedroom"
 	},
 	{
 		"id": 2,
 		"manufacturer": "Amazon",
 		"type": "Voice Assistant",
-		"roomsInFlat": ["Sleeping Room" , "Entrance Hall"]
+    "placement": "Entrance Hall",
+		"roomsInFlat": ["Bedroom" , "Entrance Hall",  "Livingroom"]
 	}
 ]
 }
