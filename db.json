@@ -1,4 +1,5 @@
-[{
+{"devices": [
+  {
 		"id": 1,
 		"manufacturer": "Apple",
 		"type": "Smart Display",
@@ -9,4 +10,6 @@
 		"manufacturer": "Amazon",
 		"type": "Voice Assistant",
 		"location": "Sleeping Room, Entrance Hall"
-	}]
+	}
+]
+}
