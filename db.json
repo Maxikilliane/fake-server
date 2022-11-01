@@ -3,13 +3,13 @@
 		"id": 1,
 		"manufacturer": "Apple",
 		"type": "Smart Display",
-		"location": "Sleeping Room, Entrance Hall"
+		"location": ["Sleeping Room" , "Entrance Hall"]
 	},
 	{
 		"id": 2,
 		"manufacturer": "Amazon",
 		"type": "Voice Assistant",
-		"location": "Sleeping Room, Entrance Hall"
+		"location": ["Sleeping Room" , "Entrance Hall"]
 	}
 ]
 }
