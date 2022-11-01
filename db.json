@@ -1,14 +1,12 @@
 [{
 		"id": 1,
-		"manufacturer": "Leanne Graham",
-		"type": "Bret",
-		"location": "Sincere@april.biz"
+		"manufacturer": "Apple",
+		"type": "Smart Display",
+		"location": "Sleeping Room, Entrance Hall"
 	},
 	{
 		"id": 2,
-		"manufacturer": "Alexa",
+		"manufacturer": "Amazon",
 		"type": "Voice Assistant",
 		"location": "Sleeping Room, Entrance Hall"
-	}
-
-]
+	}]
