@@ -1,8 +1,14 @@
-[
-  {
-    "id": 1,
-    "manufacturer": "Leanne Graham",
-    "type": "Bret",
-    "location": "Sincere@april.biz",
-    }
+[{
+		"id": 1,
+		"manufacturer": "Leanne Graham",
+		"type": "Bret",
+		"location": "Sincere@april.biz"
+	},
+	{
+		"id": 2,
+		"manufacturer": "Alexa",
+		"type": "Voice Assistant",
+		"location": "Sleeping Room, Entrance Hall"
+	}
+
 ]
